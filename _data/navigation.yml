@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: www.linkedin.com/in/haritavemulakonda
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
